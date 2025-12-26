@@ -1,4 +1,4 @@
-# 🧩 Open Posts | Back-end
+# 🧩 Open Posts - Backend
 
 Servidor básico em **Node.js + Express** para fornecer persistência de dados ao front-end do projeto *Open Posts*.
 Seu objetivo é simular uma API real, permitindo que o front-end busque e envie postagens (posts) dinamicamente.
