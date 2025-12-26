@@ -17,7 +17,7 @@ Seu objetivo é simular uma API real, permitindo que o front-end busque e envie 
 ## 📁 Estrutura do projeto
 
 ```plaintext
-backend/
+open-posts-backend/
 │
 ├── app.js                # Arquivo principal do servidor Express
 ├── package.json          # Configurações do projeto e dependências
@@ -33,8 +33,8 @@ backend/
 1. **Clonar o repositório:**
 
 ```bash
-git clone https://github.com/<SEU_USUARIO>/backend.git
-cd backend
+git clone https://github.com/leandro-courses/open-posts-backend.git
+cd open-posts-backend
 ```
 
 2. **Instalar as dependências:**
