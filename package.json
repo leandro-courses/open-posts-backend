@@ -1,13 +1,17 @@
 {
-  "name": "react-crash-course-backend",
+  "name": "open-posts-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend básico em Node.js + Express para o projeto Open Posts.",
   "main": "index.js",
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "express", "node", "api", "posts"],
+  "author": "Leandro Medvedev <leandromedvedev@hotmail.com> (https://github.com/leandromedvedev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandro-courses/open-posts-backend.git"
+  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
